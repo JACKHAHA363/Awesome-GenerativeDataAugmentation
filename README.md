@@ -17,5 +17,6 @@ A curated list of resources about leveraging diffusion models for data augmentat
 
 [Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Enhance_Image_Classification_via_Inter-Class_Image_Mixup_with_Diffusion_Model_CVPR_2024_paper.pdf)
 
+[Learning Vision from Models Rivals Learning Vision from Data](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Learning_Vision_from_Models_Rivals_Learning_Vision_from_Data_CVPR_2024_paper.pdf)
 ## Contact
 If you have any suggestion or want to add your own work, please feel free to drop a message to [luyuchen.paul@gmail.com](mailto:luyuchen.paul@gmail.com).
