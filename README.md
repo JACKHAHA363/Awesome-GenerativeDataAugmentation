@@ -15,5 +15,7 @@ A curated list of resources about leveraging diffusion models for data augmentat
 
 [Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/f99f7b22ad47fa6ce151730cf8d17911-Paper-Conference.pdf)
 
+[Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Enhance_Image_Classification_via_Inter-Class_Image_Mixup_with_Diffusion_Model_CVPR_2024_paper.pdf)
+
 ## Contact
 If you have any suggestion or want to add your own work, please feel free to drop a message to [luyuchen.paul@gmail.com](mailto:luyuchen.paul@gmail.com).
